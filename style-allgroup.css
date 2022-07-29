@@ -1,6 +1,4 @@
-/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-_____________common css start from here______________
- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+/* common css start from here */
 
  * {
     margin: 0%;
@@ -19,13 +17,9 @@ body {
     background-color: #FFFFFF;
 }
 
-/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-_____________common css end here______________
- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+/* common css end here */
 
-/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-____________ Header css start from here _____________
- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+/* Header css start from here */
 
 header {
     display: flex;
@@ -34,7 +28,7 @@ header {
     position: relative;
     width: 90%;
     margin: 30px auto;
-    background-color: #000f2c;
+    background-color: #2155bd;
     color: #FFFFFF;
     border-radius: 30px;
     padding: 30px 60px 0px;
@@ -58,7 +52,7 @@ header {
     display: inline-block;
     text-decoration: none;
     color: #FFFFFF;
-    background-color: #ff4500;
+    background-color: #f10606;
     font-size: 16px;
     font-family: var(--Roboto-500);
     padding: 16px 25px;
@@ -72,7 +66,7 @@ header {
 
 .header-button:hover {
     background-color: #FFFFFF;
-    color: #ff4500;
+    color: #f10606;
 }
 
 
@@ -247,13 +241,9 @@ header {
     }
 }
 
-/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-____________ Header css End here _____________
- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+/* Header is End here */
 
-/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-____________ main-section css start from here _____________
- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+/* main-section is start from here */
 
 /* menu-section start from here */
 
@@ -294,7 +284,7 @@ ____________ main-section css start from here _____________
 }
 
 #active {
-    background-color: #ff4500;
+    background-color: #f10606;
     color: white;
 }
 
@@ -436,16 +426,12 @@ ____________ main-section css start from here _____________
 /* Upacoming Section End */
 
 
-/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-____________ main-section css End here _____________
- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+/* main-section css End here */
 
 
 
 
-/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-____________ more-section css Start from here _____________
- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+/* more-section css Start from here */
 
 
 
@@ -475,13 +461,9 @@ ____________ more-section css Start from here _____________
 }
 
 
-/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-____________ more-section css end here _____________
- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+/* more-section css end here */
 
-/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-____________ Footer-section css Start from here _____________
- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+/* Footer-section css Start from here */
 
 
 footer {
@@ -558,6 +540,4 @@ footer {
         margin: 0px 10px;
     }
 }
-/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-____________ Footer-section css end here _____________
- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+/* Footer-section css end here */
